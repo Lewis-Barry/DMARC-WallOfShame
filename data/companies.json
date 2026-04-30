@@ -7,5 +7,10 @@
   { "name": "Vauxhall", "domain": "vauxhall.co.uk" },
   { "name": "TicketMaster", "domain": "ticketmaster.co.uk" },
   { "name": "Github", "domain": "github.io" },
-  { "name": "Active Quote", "domain": "activequote.com" }
+  { "name": "Active Quote", "domain": "activequote.com" },
+  { "name": "Lidl", "domain": "lidl.com" },
+  { "name": "Travelodge", "domain": "travelodge.co.uk" },
+  { "name": "Premier Inn", "domain": "premierinn.com." },
+  { "name": "ImmyBot", "domain": "immy.bot" },
+  { "name": "IT Glue", "domain": "itglue.com" },
 ]
